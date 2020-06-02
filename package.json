@@ -1,5 +1,5 @@
 {
-  "name": "ng-file-upload",
+  "name": "@opengovsg/ng-file-upload",
   "version": "12.2.14",
   "devDependencies": {
     "grunt": "^0.4.5",
@@ -38,5 +38,5 @@
   "bugs": {
     "url": "https://github.com/danialfarid/ng-file-upload/issues"
   },
-  "homepage": "https://github.com/danialfarid/ng-file-upload"
+  "homepage": "https://github.com/opengovsg/ng-file-upload"
 }
