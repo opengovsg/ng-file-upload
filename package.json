@@ -1,6 +1,6 @@
 {
   "name": "@opengovsg/ng-file-upload",
-  "version": "12.2.14",
+  "version": "12.2.15",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-concat": "^0.5.1",
